@@ -1,5 +1,7 @@
 # TargetPath — Disease → Target → Compound (Greedy Best-First Search)
 
+> 📹 **Demo Video / Video Demonstrasi**: [Tonton di Google Drive](https://drive.google.com/drive/folders/12nNeHtcyBsqu2VHmx7WC35OKLK2HK7yk?usp=sharing)
+
 ## 0. Important disclosure — please read this first
 
 Your instructions describe a project with `app.py`, `backend/search_engine.py`,
@@ -171,6 +173,8 @@ npm test
 ```
 
 ## 6. How to run TargetPath (Windows, no coding required)
+
+> 📹 **Video Tutorial / Demo**: [Lihat panduan video di Google Drive](https://drive.google.com/drive/folders/12nNeHtcyBsqu2VHmx7WC35OKLK2HK7yk?usp=sharing)
 
 1. Install Python 3 if you don't have it: https://www.python.org/downloads/
    — during setup, tick **"Add python.exe to PATH"**.

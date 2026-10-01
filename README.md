@@ -1,5 +1,6 @@
 # TargetPath — Disease → Target → Compound (Greedy Best-First Search)
 
+> 🌐 **Live Simulation / Demo Web (GitHub Pages)**: [https://isna04.github.io/targetpath/](https://isna04.github.io/targetpath/)  
 > 📹 **Demo Video / Video Demonstrasi**: [Tonton di Google Drive](https://drive.google.com/drive/folders/12nNeHtcyBsqu2VHmx7WC35OKLK2HK7yk?usp=sharing)
 
 ## 0. Important disclosure — please read this first
@@ -172,10 +173,18 @@ node tests/test_disease_matrix.js
 npm test
 ```
 
-## 6. How to run TargetPath (Windows, no coding required)
+## 6. How to run TargetPath
 
+> 🌐 **Live Web Simulation (GitHub Pages)**: [https://isna04.github.io/targetpath/](https://isna04.github.io/targetpath/)  
 > 📹 **Video Tutorial / Demo**: [Lihat panduan video di Google Drive](https://drive.google.com/drive/folders/12nNeHtcyBsqu2VHmx7WC35OKLK2HK7yk?usp=sharing)
 
+### Opsi 1: Buka Langsung Online (Tanpa Install)
+Cukup buka link berikut di browser apa pun (desktop/laptop/HP):  
+👉 **[https://isna04.github.io/targetpath/](https://isna04.github.io/targetpath/)**
+
+Aplikasi langsung terbuka dan siap digunakan untuk simulasi (Live Exploration atau Demo Mode).
+
+### Opsi 2: Jalankan Lokal di Komputer (Windows)
 1. Install Python 3 if you don't have it: https://www.python.org/downloads/
    — during setup, tick **"Add python.exe to PATH"**.
 2. Unzip this project anywhere (e.g. your Desktop).
@@ -191,7 +200,7 @@ npm test
    labeled DEMO).
 
 If you'd rather not use `run.bat`, opening `index.html` directly may also
-work, but some browsers block `fetch()` from `file://` pages — the server is
+work, but some browsers block `fetch()` from `file://` pages — GitHub Pages or the local server is
 the reliable option.
 
 ## 7. Files in this ZIP
